@@ -1,5 +1,4 @@
-{
-	"listItems": [{
+[{
 			"name": "Joyce Dean",
 			"age": 20
 		},
@@ -83,5 +82,4 @@
 			"name": "Tyler Washington",
 			"age": 18
 		}
-	]
-}
+]
